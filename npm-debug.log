@@ -1,68 +1,89 @@
 0 info it worked if it ends with ok
-1 verbose cli [ 'node',
-1 verbose cli   '/usr/local/bin/npm',
-1 verbose cli   'install',
-1 verbose cli   '--save',
-1 verbose cli   '../venn-messaging' ]
-2 info using npm@2.11.1
-3 info using node@v0.12.0
-4 verbose node symlink /usr/local/bin/node
-5 verbose install initial load of /Users/timgiblin/Dropbox/Code/venn-messaging-node/package.json
-6 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/async/package.json
-7 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/chai/package.json
-8 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/debug/package.json
-9 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/easynexmo/package.json
-10 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/gulp/package.json
-11 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/gulp-bump/package.json
-12 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/mailgun-js/package.json
-13 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/mandrill-api/package.json
-14 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/messagebus/package.json
-15 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/mocha/package.json
-16 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/nock/package.json
-17 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/node-parse-api/package.json
-18 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/nzero-push/package.json
-19 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/plivo-node/package.json
-20 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/postmark/package.json
-21 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/promise/package.json
-22 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/pushwoosh-client/package.json
-23 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/q/package.json
-24 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/request/package.json
-25 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/sendgrid/package.json
-26 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/twilio/package.json
-27 verbose installManyTop reading scoped package data from /Users/timgiblin/Dropbox/Code/venn-messaging-node/node_modules/underscore/package.json
-28 info package.json mandrill-api@1.0.41 No license field.
-29 info package.json q@1.2.0 license should be a valid SPDX license expression
-30 info package.json sendgrid@1.6.0 No license field.
-31 info package.json async@0.9.0 No license field.
-32 info package.json gulp@3.8.11 No license field.
-33 info package.json gulp-bump@0.3.0 No license field.
-34 info package.json messagebus@5.0.0 No license field.
-35 info package.json node-parse-api@0.3.5 No license field.
-36 info package.json mocha@2.2.1 No license field.
-37 info package.json twilio@2.0.0 No license field.
-38 info package.json postmark@1.0.0 No license field.
-39 info package.json easynexmo@0.6.2 No license field.
-40 verbose readDependencies loading dependencies from /Users/timgiblin/Dropbox/Code/venn-messaging-node/package.json
-41 silly cache add args [ '../venn-messaging', null ]
-42 verbose cache add spec ../venn-messaging
-43 silly cache add parsed spec { raw: '../venn-messaging',
-43 silly cache add   scope: null,
-43 silly cache add   name: null,
-43 silly cache add   rawSpec: '../venn-messaging',
-43 silly cache add   spec: '/Users/timgiblin/Dropbox/Code/venn-messaging',
-43 silly cache add   type: 'local' }
-44 error addLocal Could not install /Users/timgiblin/Dropbox/Code/venn-messaging
-45 verbose stack Error: ENOENT, open '/Users/timgiblin/Dropbox/Code/venn-messaging'
-45 verbose stack     at Error (native)
-46 verbose cwd /Users/timgiblin/Dropbox/Code/venn-messaging-node
-47 error Darwin 14.3.0
-48 error argv "node" "/usr/local/bin/npm" "install" "--save" "../venn-messaging"
-49 error node v0.12.0
-50 error npm  v2.11.1
-51 error path /Users/timgiblin/Dropbox/Code/venn-messaging
-52 error code ENOENT
-53 error errno -2
-54 error enoent ENOENT, open '/Users/timgiblin/Dropbox/Code/venn-messaging'
-54 error enoent This is most likely not a problem with npm itself
-54 error enoent and is related to npm not being able to find a file.
-55 verbose exit [ -2, true ]
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'publish' ]
+2 info using npm@2.11.3
+3 info using node@v0.12.7
+4 verbose publish [ '.' ]
+5 silly cache add args [ '.', null ]
+6 verbose cache add spec .
+7 silly cache add parsed spec { raw: '.',
+7 silly cache add   scope: null,
+7 silly cache add   name: null,
+7 silly cache add   rawSpec: '.',
+7 silly cache add   spec: '/Users/timgiblin/Dropbox/Code/venn-messaging-node',
+7 silly cache add   type: 'directory' }
+8 verbose addLocalDirectory /Users/timgiblin/.npm/redundant-messaging/0.7.0/package.tgz not in flight; packing
+9 verbose tar pack [ '/Users/timgiblin/.npm/redundant-messaging/0.7.0/package.tgz',
+9 verbose tar pack   '/Users/timgiblin/Dropbox/Code/venn-messaging-node' ]
+10 verbose tarball /Users/timgiblin/.npm/redundant-messaging/0.7.0/package.tgz
+11 verbose folder /Users/timgiblin/Dropbox/Code/venn-messaging-node
+12 info prepublish redundant-messaging@0.7.0
+13 verbose addLocalTarball adding from inside cache /Users/timgiblin/.npm/redundant-messaging/0.7.0/package.tgz
+14 silly cache afterAdd redundant-messaging@0.7.0
+15 verbose afterAdd /Users/timgiblin/.npm/redundant-messaging/0.7.0/package/package.json not in flight; writing
+16 verbose afterAdd /Users/timgiblin/.npm/redundant-messaging/0.7.0/package/package.json written
+17 silly publish { name: 'redundant-messaging',
+17 silly publish   version: '0.7.0',
+17 silly publish   private: true,
+17 silly publish   description: 'Messaging Redundancy Package, including Push Notifications, Email and SMS',
+17 silly publish   main: 'lib/index.js',
+17 silly publish   scripts: { test: 'mocha' },
+17 silly publish   repository:
+17 silly publish    { type: 'git',
+17 silly publish      url: 'git+https://github.com/TeamLifecycle/redundant-messaging.git' },
+17 silly publish   author: { name: 'Tim Giblin' },
+17 silly publish   license: 'MIT',
+17 silly publish   bugs: { url: 'https://github.com/TeamLifecycle/redundant-messaging/issues' },
+17 silly publish   homepage: 'https://github.com/TeamLifecycle/redundant-messaging',
+17 silly publish   dependencies:
+17 silly publish    { async: '^0.9.0',
+17 silly publish      debug: '^2.1.2',
+17 silly publish      easynexmo: '^0.6.2',
+17 silly publish      'mailgun-js': '^0.6.9',
+17 silly publish      'mandrill-api': '^1.0.41',
+17 silly publish      messagebus: '^5.0.0',
+17 silly publish      'node-parse-api': '^0.3.5',
+17 silly publish      'nzero-push': '^2.1.2',
+17 silly publish      'plivo-node': '^0.2.5',
+17 silly publish      postmark: '^1.0.0',
+17 silly publish      promise: '^6.1.0',
+17 silly publish      'pushwoosh-client': '^1.0.2',
+17 silly publish      q: '^1.2.0',
+17 silly publish      request: '^2.54.0',
+17 silly publish      sendgrid: '^1.6.0',
+17 silly publish      twilio: '^2.0.0',
+17 silly publish      underscore: '^1.8.3' },
+17 silly publish   devDependencies:
+17 silly publish    { chai: '^2.3.0',
+17 silly publish      gulp: '^3.8.11',
+17 silly publish      'gulp-bump': '^0.3.0',
+17 silly publish      mocha: '^2.2.1',
+17 silly publish      nock: '^1.4.0' },
+17 silly publish   readme: '# Venn Email\n\n[ ![Codeship Status for VennHQ/venn-email-node](https://codeship.com/projects/40a5efb0-c00d-0132-200e-021ec7688aff/status?branch=master)](https://codeship.com/projects/73117)\n\nBuild in a redundant messaging service seamlessly. If your email, sms or push notification provider goes down, we\'ll fall back to a secondary service.\n\n\n## Installation\n``` bash\nnpm install venn-messaging\n```\n\n## Email\n\n#### initialize(api_key)\n|params  |type   |description  |example                  |\n|--------|-------|-------------|-------------------------|\n|api_key |String |Venn API Key |64d2fa24h3f6f7cc61asp3e8 |\n\n#### send(data, callback)\n|params       |type   |description        |example        |\n|-------------|-------|-------------------|---------------|\n|data.from    |String |from email address |from@email.com |\n|data.to      |String |to email address   |to@email.com   |\n|data.subject |String |email subject      |Subject 123    |\n|data.message |String |email message      |How you doin?  |\n\n#### Example\n``` javascript\nvennEmail = require("venn-messaging").Email;\n\n// initialize and send an email\nvennEmail.initialize(VENN_API_KEY);\n\nvar data = {\n\tfrom: "from@email.com",\n\tto: "to@email.com",\n\tsubject: "Subject 123",\n\tmessage: "How you doin?"\n};\n\nvennEmail.send(data, function(err, result){\n\t// email successfully sent if no error\n});\n```\n\n## SMS\n\n#### initialize(api_key)\n|params  |type   |description  |example                  |\n|--------|-------|-------------|-------------------------|\n|api_key |String |Venn API Key |64d2fa24h3f6f7cc61asp3e8 |\n\n#### send(data, callback)\n|params       |type   |description       |example       |\n|-------------|-------|------------------|--------------|\n|data.from    |String |from phone number |+14354402246  |\n|data.to      |String |to phone number   |+1633050227   |\n|data.message |String |text message      |How you doin? |\n\n#### Example\n``` javascript\nvennSms = require("venn-messaging").SMS;\n\n// initialize and send an SMS\nvennSms.initialize(VENN_API_KEY);\n\nvar data = {\n\tfrom: "+14356650499",\n\tto: "+14503350029",\n\tmessage: "How you doin?"\n};\n\nvennSms.send(data, function (err, result) {\n\t// text successfully sent if no error\n});\n```\n\n## Push Notification\n\n#### initialize(api_key)\n|params  |type   |description  |example                  |\n|--------|-------|-------------|-------------------------|\n|api_key |String |Venn API Key |64d2fa24h3f6f7cc61asp3e8 |\n\n#### send(data, callback)\n|params           |type   |description           |example                      |\n|-----------------|-------|----------------------|-----------------------------|\n|data.deviceToken |String |id of target device   |FE66489F304DC75B8D6E8200DFF8 |\n|data.deviceType  |String |type of target device |ios                          |\n|data.message     |String |notification message  |How you doin?                |\n\n#### Example\n``` javascript\nvennPush = require("venn-messaging").Push;\n\n// initialize and send a push notification\nvennPush.initialize(VENN_API_KEY);\n\nvar data = {\n\tdeviceToken: "FE66489F304DC75B8D6E8200DFF8",\n    deviceType: "ios",\n    message: "How you doin?"\n};\n\nvennPush.send(data, function (err, result) {\n\t// push notification successfully sent if no error\n});\n```\n\n## Development\n\n### Install Dependencies\n``` bash\nnpm install\n```\n\n### Export Environment Variables\n``` bash\nVENN_API_KEY="h41fa6602663b30c78b9c339"\nVENN_API_URL="http://localhost:3400/v1"\n```\n\n### Run Examples\n``` bash\nnode examples/example.js \n```\n\n### Run Examples with Debugging\n``` bash\nVENN_API_KEY=5f6abf85d1947ce29ce7332f\nVENN_API_URL=http://localhost:3400/v1\nDEBUG="venn"\nnode examples/example.js\n```\n\n### Run Tests\n``` bash\nmocha\n```\n\n### Adding a New Service Provider\n1. Write Failing Tests\n  1. Create a new test file of the form `test/service_type/service_name/error.js`\n  2. Copy `test/template/test_service_template.js` into this new file\n  3. Follow instructions in the template file to create tests for the new service\n2. Create the New Service Provider\n  1. Install the service provider\'s npm package as a dependency\n  2. Create a new file of the form `lib/models/providers/service_type/service_name.js`\n  3. Copy `lib/models/providers/template/service_template.js` into this new file\n  4. Follow instructions in the template file to create the new service\n3. Edit `lib/models/messaging_client.js`\n  1. Require the newly created service provider\n  ``` javascript\n  var ServiceName = require(\'./providers/service_type/service_name\');\n  ```\n  2. Add the newly created service provider to `initServices`\n  ``` javascript\n  else if (property === "service_name" && keys[property]) {\n  \tmessagingProvider = new ServiceName(keys[property]);\n  }\n  ```\n4. Add api key validator to Venn API\n',
+17 silly publish   readmeFilename: 'README.md',
+17 silly publish   gitHead: '99d27b6880c7b4a1c444d2dae58badab8eb396b0',
+17 silly publish   _id: 'redundant-messaging@0.7.0',
+17 silly publish   _shasum: 'c96649deec061976d94afe6b838844fb1f100f44',
+17 silly publish   _from: '.' }
+18 verbose getPublishConfig undefined
+19 verbose stack Error: This package has been marked as private
+19 verbose stack Remove the 'private' field from the package.json to publish it.
+19 verbose stack     at publish_ (/usr/local/lib/node_modules/npm/lib/publish.js:98:5)
+19 verbose stack     at Array.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+19 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:15:14)
+19 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:14:28)
+19 verbose stack     at chain (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:20:5)
+19 verbose stack     at /usr/local/lib/node_modules/npm/lib/publish.js:73:5
+19 verbose stack     at RES (/usr/local/lib/node_modules/npm/node_modules/inflight/inflight.js:23:14)
+19 verbose stack     at f (/usr/local/lib/node_modules/npm/node_modules/once/once.js:17:25)
+19 verbose stack     at /usr/local/lib/node_modules/npm/lib/cache.js:350:14
+19 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/write-file-atomic/index.js:29:15
+20 verbose cwd /Users/timgiblin/Dropbox/Code/venn-messaging-node
+21 error Darwin 14.4.0
+22 error argv "node" "/usr/local/bin/npm" "publish"
+23 error node v0.12.7
+24 error npm  v2.11.3
+25 error This package has been marked as private
+25 error Remove the 'private' field from the package.json to publish it.
+26 error If you need help, you may report this error at:
+26 error     <https://github.com/npm/npm/issues>
+27 verbose exit [ 1, true ]

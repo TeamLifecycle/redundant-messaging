@@ -1,10 +1,10 @@
 var debug = require('debug')('venn');
-var Email = require("../lib/index").Email;
-
-Email.initialize()
+var Email = require("../lib/index")("a db").Email;
+console.log("email", Email)
+Email.initialize();
 var data = {
 	from: "from@venn.com",
-	to: "testy@venn.com",
+	to: "timmyg13@gmail.com",
 	subject: "subject-1",
 	message: "message-1"
 }
