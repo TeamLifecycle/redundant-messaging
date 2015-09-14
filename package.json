@@ -25,6 +25,7 @@
     "mailgun-js": "^0.6.9",
     "mandrill-api": "^1.0.41",
     "messagebus": "^5.0.0",
+    "node-parse-api": "^0.3.8",
     "nzero-push": "^2.1.2",
     "plivo-node": "^0.2.5",
     "postmark": "^1.0.0",
