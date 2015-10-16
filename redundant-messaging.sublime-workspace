@@ -1,0 +1,1280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"track",
+				"trackPublishedCampaign"
+			],
+			[
+				"campai",
+				"campaignId"
+			],
+			[
+				"campa",
+				"campaign"
+			],
+			[
+				"chan",
+				"channelType"
+			],
+			[
+				"un",
+				"unsubscribe"
+			],
+			[
+				"user",
+				"userorg"
+			],
+			[
+				"orga",
+				"organization"
+			],
+			[
+				"app",
+				"appId"
+			],
+			[
+				"anal",
+				"analytics"
+			],
+			[
+				"fid",
+				"findOrCreate"
+			],
+			[
+				"Eve",
+				"EventType"
+			],
+			[
+				"in",
+				"IntegrationType"
+			],
+			[
+				"person",
+				"personGroup"
+			],
+			[
+				"uniqu",
+				"uniqueId"
+			],
+			[
+				"at",
+				"attribute"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"upda",
+				"updatedPerson"
+			],
+			[
+				"stri",
+				"StripeCustomer"
+			],
+			[
+				"se",
+				"selectedProperty"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"re",
+				"rendered	meteor-template-rendered"
+			],
+			[
+				"template",
+				"templateId"
+			],
+			[
+				"wys",
+				"wysihtml5ParserRules"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"chann",
+				"channelId"
+			],
+			[
+				"update",
+				"updateField"
+			],
+			[
+				"org",
+				"organization"
+			],
+			[
+				"post",
+				"postSaveProcessed"
+			],
+			[
+				"Str",
+				"StripeCustomer"
+			],
+			[
+				"unique",
+				"uniqueUsages"
+			],
+			[
+				"Stri",
+				"stripeController"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"camp",
+				"campaignId"
+			],
+			[
+				"campagi",
+				"campaignId"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"messa",
+				"messageFields"
+			],
+			[
+				"type",
+				"typeSlug"
+			],
+			[
+				"route",
+				"routeName"
+			],
+			[
+				"bacgroun",
+				"background-color"
+			],
+			[
+				"campaign",
+				"campaignId"
+			],
+			[
+				"campaig",
+				"campaignId"
+			],
+			[
+				"redire",
+				"redirectDocs"
+			],
+			[
+				"templa",
+				"templateData"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"private",
+				"Gist: Create Private Gist"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/timgiblin/Dropbox/Code/redundant-messaging",
+		"/Users/timgiblin/Dropbox/Code/redundant-messaging/lib",
+		"/Users/timgiblin/Dropbox/Code/redundant-messaging/lib/services"
+	],
+	"file_history":
+	[
+		"/Users/timgiblin/Dropbox/Code/redundant-messaging/lib/services/venn_api.js",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/other/keys.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/other/logs.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/routes.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/services/analytics.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/package.json",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/message.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/controllers/stripe/invoices.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/controllers/segment.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/controllers/campaign.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/controllers/validator.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/controllers/analytics/usage.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/campaign.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/publish.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/organization.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/skipped/campaigns.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/skipped/app_usage.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/skipped/frequencyCaps.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/stripe/validateSubscription.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/stripe/subscriptions.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/stripe/charges.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/skipped/org_usage.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/skipped/testKey.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/skipped/track.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/skipped/userAvailability.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/pending/track.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/pending/frequencyCaps.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/pending/testKey.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/pending/import.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/import.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/pending/create.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/pending/campaign.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/create.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/track/userAvailability.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/track/frequencyCaps.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/campaign.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/config/vars.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/billing.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/controllers/home.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/org_usage.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/services/stripe.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/helpers/helpers.coffee",
+		"/Users/timgiblin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/models/filters.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/filter.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/shared/helpers.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/models/campaigns/campaigns.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/models/campaigns/stream.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/dashboard/stream/stream.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/dashboard/stream/stream.html",
+		"/Users/timgiblin/Desktop/a.html",
+		"/Users/timgiblin/Dropbox/TGC/webdevelopment_coloradometals.txt",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/drip.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/channel.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/controllers/unsubscribe.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/unsubscribe/unsubscribe.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/config/config.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/track/astronomer.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/unsubscribe.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/unsubscribes.coffee",
+		"/Users/timgiblin/Dropbox/Code/api/app/v1/services/queue.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/gulpfile.js",
+		"/Users/timgiblin/Dropbox/Code/api/app/v1/controllers/segment.coffee",
+		"/Users/timgiblin/Dropbox/Code/api/app/v1/controllers/person.coffee",
+		"/Users/timgiblin/Dropbox/Code/hirewheel/export/query_result.csv",
+		"/Users/timgiblin/Dropbox/Code/hirewheel/export/permits_raw.csv",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/stream.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/controllers/person.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/track/track.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/testKey.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/person.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/config/express.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/controllers/stripe/subscriptions.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/controllers/stripe/customers.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/event.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/controllers/event.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/segment/all.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/event_triggered.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/accounts/sign-up-beta/sign-up-beta.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/server/methods/beta.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/server/accounts.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/accounts/accounts.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/shared/lib/vars.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/dashboard/campaign/edit/publish/publish.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/server/methods/team.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/server/methods/signup.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/server/methods/lifecycle.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/server/methods/invite.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/models/users.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/dashboard/documentation/campaign/steps/1-identify.html",
+		"/Users/timgiblin/Desktop/signups.txt",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/identify.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/channel/update.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/_setup.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/_spec.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/page.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/channel/delete.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/group.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/person_group.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/app_group.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/page.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/app_log.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/page_event.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/campaigns/alias.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/app_usage_summary.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/controllers/segment/track.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/spec_helper.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/services/queue.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/v1/models/attribute.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/api/test/models/person.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/dashboard/documentation/campaign/steps/2-track.html",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/dashboard/documentation/campaign/steps/3-page.html",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/dashboard/documentation/campaign/steps/4-alias.html",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/dashboard/documentation/campaign/steps/5-group.html",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/dashboard/documentation/campaign/campaign.html",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/dashboard/documentation/campaign/campaign.less",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/shared/routes/app.coffee",
+		"/Users/timgiblin/Desktop/latlng.js",
+		"/Users/timgiblin/Desktop/redclay-map.html",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/global/layouts/appLayout.html",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/global/headers/app/app.html",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/global/headers/app/app.coffee",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/stylesheets/headers.less",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/accounts/sign-up-beta/sign-up-beta.less",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/global/headers/app/app.less",
+		"/Users/timgiblin/Desktop/android.curl",
+		"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client/views/apps/create/app.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/timgiblin/Dropbox/Code/redundant-messaging, *.js",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/test, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/test, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/api, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/api, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/redundant-messaging",
+			"/Users/timgiblin/Dropbox/Code/redundant_messaging, *.js",
+			"/Users/timgiblin/Dropbox/Code/redundant_messaging, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/test, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/test, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/test, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/shared, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/, *.coffee *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/shared, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/server, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/test, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/test, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/test, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/test, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/shared, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.js",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/push-test",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/test, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app/test, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/api/app, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee, *.html, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/server, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/server, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/server, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/server, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.css",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp/client, *.coffee, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee, *.html",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.less",
+			"/Users/timgiblin/Dropbox/Code/lifecycle/webapp, *.coffee"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getPriorityFromRequest",
+			"postLogFromRequest",
+			"prior",
+			"log",
+			"getKeysForApp",
+			"createLog",
+			"node",
+			"analytics.track ",
+			"analytics",
+			"#{v.PATH.v1.SERVICES}/analytics",
+			"analytics",
+			"#{v.PATH.v1.SERVICES}/analy",
+			"activateAnalytics",
+			"#{v.PATH.v1.SERVICES}/anal",
+			"req.analytics",
+			"analytics",
+			"#{v.PATH.v1.SERVICES}/anal",
+			"services",
+			"usageController",
+			"controllers/analytics/usag",
+			"analyticsService",
+			"createUsage",
+			"analyticsService",
+			"createWithStats",
+			"console.log ",
+			"GoalStats",
+			".methods.",
+			"OrgUsage",
+			".methods.",
+			".statics.",
+			"createFromArray",
+			"Template",
+			"STATUS",
+			"createStats",
+			".createStats",
+			"createChannelStats",
+			"createStats",
+			".methods.",
+			"createChannelStats",
+			"context",
+			"results",
+			" e.",
+			"e.",
+			"'../../",
+			"'../",
+			" '../",
+			"../..",
+			".skip",
+			"../",
+			".skip",
+			"url: \"#{root}/campaign\"",
+			"Creating a Campaign",
+			".create",
+			"console.log ",
+			"rdd",
+			"Organization",
+			"orgIntegration",
+			"AppLog",
+			"StripeCustomer",
+			"stripeInvoice",
+			"lifecycleService",
+			" stripeInvoice.customer",
+			"analytics.track",
+			".track",
+			".tracl",
+			"analytics",
+			"segment",
+			"getPeriodUsage",
+			"getPeriodUsage\ngetPeriodUsage",
+			"getPeriodUsage",
+			"uniqueUsages",
+			"{v.PATH.v1.SERVICES}/stripe",
+			"lifecycle",
+			"stripe",
+			"updateUsage",
+			"calcUsageCostCents",
+			"calcUsageDollars",
+			"calcUsageCostCents",
+			"updateUsage",
+			"<<<",
+			"applyFilters",
+			"calculateFilter",
+			"getResult",
+			"segmentType",
+			"choose filter type",
+			"isTypeEventPage",
+			"isTypeText",
+			"isTypeError",
+			"isTypeEvent",
+			"isTypeBulkPerson",
+			"isTypePerson",
+			"<<<<",
+			"<<<",
+			"Campaigns.isPublished = (campaignId) ->\n	campaign = Campaigns.findOne _id: OID(campaignId)\n	campaign.status is Campaigns.STATUS.ACTIVE",
+			"campaign.status is Campaigns.STATUS.ACTIVE",
+			".status",
+			"<<<",
+			"example",
+			"mail",
+			"270",
+			"280",
+			"-webkit-transform: rotate",
+			"jpeg",
+			"90",
+			"300",
+			"height",
+			"90",
+			"http://badgepizazz.com/wp-content/uploads/2014/01/polka_1.jpeg",
+			"http://badgepizazz.com/wp-content/uplo",
+			"person._id",
+			"bySe",
+			"delay",
+			"getDripChannels",
+			"sort",
+			"findAvailableBySegment",
+			"determineUsable",
+			"findAvailableBySegment",
+			"drip",
+			"IntegrationType",
+			"getAvailableChannelTypes",
+			"campaign",
+			"Unsubscribe",
+			"findAvailableBySegment",
+			"isSubscribed",
+			"isTest",
+			"createDrip",
+			"sendCampaignMessages",
+			"person._id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "redundant-messaging.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test/controllers/other/logs.coffee",
+				"test/controllers/other/logs.coffee"
+			],
+			[
+				"test/controllers/other/keys",
+				"test/controllers/other/keys.coffee"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"vali",
+				"app/v1/controllers/validator.coffee"
+			],
+			[
+				"serviceanal",
+				"app/v1/services/analytics.coffee"
+			],
+			[
+				"app/v1/models/channel.coffee",
+				"app/v1/models/channel.coffee"
+			],
+			[
+				"test/controllers/campaigns/publish.coffee",
+				"test/controllers/campaigns/publish.coffee"
+			],
+			[
+				"test/models/campaigns.coffee",
+				"test/models/campaigns.coffee"
+			],
+			[
+				"modelcamp",
+				"app/v1/models/campaign.coffee"
+			],
+			[
+				"controllcampa",
+				"app/v1/controllers/campaign.coffee"
+			],
+			[
+				"test/controllers/campaigns/track/useravailability.coffee",
+				"test/controllers/campaigns/track/userAvailability.coffee"
+			],
+			[
+				"routes",
+				"app/v1/routes.coffee"
+			],
+			[
+				"conrollercamp",
+				"app/v1/controllers/campaign.coffee"
+			],
+			[
+				"va",
+				"config/vars.coffee"
+			],
+			[
+				"contstripeinvoi",
+				"app/v1/controllers/stripe/invoices.coffee"
+			],
+			[
+				"approute",
+				"app/v1/routes.coffee"
+			],
+			[
+				"appstripe",
+				"app/v1/services/stripe.coffee"
+			],
+			[
+				"app/v1/controllers/campaign.coffee",
+				"app/v1/controllers/campaign.coffee"
+			],
+			[
+				"modelfilter",
+				"app/v1/models/filter.coffee"
+			],
+			[
+				"filterco",
+				"test/models/filters.coffee"
+			],
+			[
+				"modelstream",
+				"models/campaigns/stream.coffee"
+			],
+			[
+				"client/views/dashboard/stream/stream.coffee",
+				"client/views/dashboard/stream/stream.coffee"
+			],
+			[
+				"models/campaigns/campaigns.coffee",
+				"models/campaigns/campaigns.coffee"
+			],
+			[
+				"shared/helpers.coffee",
+				"shared/helpers.coffee"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"modeldrip",
+				"app/v1/models/drip.coffee"
+			],
+			[
+				"modelperson",
+				"app/v1/models/person.coffee"
+			],
+			[
+				"modelchannel",
+				"app/v1/models/channel.coffee"
+			],
+			[
+				"modelmess",
+				"app/v1/models/message.coffee"
+			],
+			[
+				"modelchanne",
+				"app/v1/models/channel.coffee"
+			],
+			[
+				"concamp",
+				"app/v1/controllers/campaign.coffee"
+			],
+			[
+				"testunsub",
+				"test/controllers/unsubscribe/unsubscribe.coffee"
+			],
+			[
+				"unsub",
+				"app/v1/controllers/unsubscribe.coffee"
+			],
+			[
+				"valid",
+				"app/v1/controllers/validator.coffee"
+			],
+			[
+				"confi",
+				"config/config.coffee"
+			],
+			[
+				"validator",
+				"app/v1/controllers/validator.coffee"
+			],
+			[
+				"astron",
+				"test/controllers/campaigns/track/astronomer.coffee"
+			],
+			[
+				"contcamp",
+				"app/v1/controllers/campaign.coffee"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"conficon",
+				"config/config.coffee"
+			],
+			[
+				"contrcampg",
+				"app/v1/controllers/campaign.coffee"
+			],
+			[
+				"modelscamp",
+				"app/v1/models/campaign.coffee"
+			],
+			[
+				"modelmessage",
+				"app/v1/models/message.coffee"
+			],
+			[
+				"appmodelscampa",
+				"app/v1/models/campaign.coffee"
+			],
+			[
+				"testastronomer",
+				"test/controllers/campaigns/track/astronomer.coffee"
+			],
+			[
+				"appmodelsevent",
+				"app/v1/models/event.coffee"
+			],
+			[
+				"models/event_triggered.coffee",
+				"app/v1/models/event_triggered.coffee"
+			],
+			[
+				"app/v1/models/message.coffee",
+				"app/v1/models/message.coffee"
+			],
+			[
+				"v1/models/message.coffee",
+				"app/v1/models/message.coffee"
+			],
+			[
+				"app/v1/models/organization.coffee",
+				"app/v1/models/organization.coffee"
+			],
+			[
+				"configvars",
+				"config/vars.coffee"
+			],
+			[
+				"pp/v1/controllers/campaign.coffee",
+				"app/v1/controllers/campaign.coffee"
+			],
+			[
+				"app/v1/controllers/segment.coffee",
+				"app/v1/controllers/segment.coffee"
+			],
+			[
+				"modelsmessage",
+				"app/v1/models/message.coffee"
+			],
+			[
+				"test/controllers/campaigns/track/astronomer.coffee",
+				"test/controllers/campaigns/track/astronomer.coffee"
+			],
+			[
+				"contorllperson",
+				"app/v1/controllers/person.coffee"
+			],
+			[
+				"campaigntrack",
+				"test/controllers/campaigns/track/track.coffee"
+			],
+			[
+				"app/v1/models/message.coffe",
+				"app/v1/models/message.coffee"
+			],
+			[
+				"contsegment",
+				"app/v1/controllers/segment.coffee"
+			],
+			[
+				"app/v1/models/person.coffee",
+				"app/v1/models/person.coffee"
+			],
+			[
+				"controlhome",
+				"app/v1/controllers/home.coffee"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"expres",
+				"config/express.coffee"
+			],
+			[
+				"controlval",
+				"app/v1/controllers/validator.coffee"
+			],
+			[
+				"expre",
+				"config/express.coffee"
+			],
+			[
+				"var",
+				"config/vars.coffee"
+			],
+			[
+				"express",
+				"config/express.coffee"
+			],
+			[
+				"vars",
+				"config/vars.coffee"
+			],
+			[
+				"validato",
+				"app/v1/controllers/validator.coffee"
+			],
+			[
+				"controlsegment",
+				"app/v1/controllers/segment.coffee"
+			],
+			[
+				"modelcampaign",
+				"app/v1/models/campaign.coffee"
+			],
+			[
+				"controllcamp",
+				"app/v1/controllers/campaign.coffee"
+			],
+			[
+				"controhom",
+				"app/v1/controllers/home.coffee"
+			],
+			[
+				"controllstrupe",
+				"app/v1/controllers/stripe/subscriptions.coffee"
+			],
+			[
+				"config",
+				"config/config.coffee"
+			],
+			[
+				"modelevent",
+				"app/v1/models/event.coffee"
+			],
+			[
+				"modeleven",
+				"app/v1/models/event.coffee"
+			],
+			[
+				"segmen",
+				"app/v1/controllers/segment.coffee"
+			],
+			[
+				"app",
+				"app.coffee"
+			],
+			[
+				"modelevencoff",
+				"app/v1/models/event.coffee"
+			],
+			[
+				"event_triggered.coffee",
+				"app/v1/models/event_triggered.coffee"
+			],
+			[
+				"controlperson",
+				"app/v1/controllers/person.coffee"
+			],
+			[
+				"segmentall",
+				"test/controllers/segment/all.coffee"
+			],
+			[
+				"modelsstream",
+				"models/campaigns/stream.coffee"
+			],
+			[
+				"publish",
+				"client/views/dashboard/campaign/edit/publish/publish.coffee"
+			],
+			[
+				"betaco",
+				"server/methods/beta.coffee"
+			],
+			[
+				"sharedva",
+				"shared/lib/vars.coffee"
+			],
+			[
+				"1iden",
+				"client/views/dashboard/documentation/campaign/steps/1-identify.html"
+			],
+			[
+				"1ide",
+				"client/views/dashboard/documentation/campaign/steps/1-identify.html"
+			],
+			[
+				"_spec",
+				"test/_spec.coffee"
+			],
+			[
+				"testimport",
+				"test/controllers/campaigns/import.coffee"
+			],
+			[
+				"test/controllers/campaigns/import.coffee",
+				"test/controllers/campaigns/import.coffee"
+			],
+			[
+				"testcontrollimport",
+				"test/controllers/campaigns/import.coffee"
+			],
+			[
+				"_setup",
+				"test/_setup.coffee"
+			],
+			[
+				"test/controllers/channel/update.coffee",
+				"test/controllers/channel/update.coffee"
+			],
+			[
+				"testotherkeyco",
+				"test/controllers/other/keys.coffee"
+			],
+			[
+				"test/controllers/other/keys.coffee",
+				"test/controllers/other/keys.coffee"
+			],
+			[
+				"test/controllers/campaigns/identify.coffee",
+				"test/controllers/campaigns/identify.coffee"
+			],
+			[
+				"pagecoffee",
+				"test/controllers/campaigns/page.coffee"
+			],
+			[
+				"tsetcontcampgin",
+				"test/controllers/campaigns/campaign.coffee"
+			],
+			[
+				"_steup",
+				"test/_setup.coffee"
+			],
+			[
+				"test/controllers/channel/delete.coffee",
+				"test/controllers/channel/delete.coffee"
+			],
+			[
+				"campaignimpor",
+				"test/controllers/campaigns/import.coffee"
+			],
+			[
+				"campaignidentif",
+				"test/controllers/campaigns/identify.coffee"
+			],
+			[
+				"controlcamp",
+				"app/v1/controllers/campaign.coffee"
+			],
+			[
+				"persongro",
+				"app/v1/models/person_group.coffee"
+			],
+			[
+				"contrperson",
+				"app/v1/controllers/person.coffee"
+			],
+			[
+				"persongroup",
+				"app/v1/models/person_group.coffee"
+			],
+			[
+				"modelapgroup",
+				"app/v1/models/app_group.coffee"
+			],
+			[
+				"testgroup",
+				"test/controllers/campaigns/group.coffee"
+			],
+			[
+				"modelpage",
+				"app/v1/models/page.coffee"
+			],
+			[
+				"campaig",
+				"app/v1/controllers/campaign.coffee"
+			],
+			[
+				"tstpage",
+				"test/controllers/campaigns/page.coffee"
+			],
+			[
+				"modelsperson",
+				"app/v1/models/person.coffee"
+			],
+			[
+				"controllperson",
+				"app/v1/controllers/person.coffee"
+			],
+			[
+				"alias",
+				"test/controllers/campaigns/alias.coffee"
+			],
+			[
+				"modeperson",
+				"app/v1/models/person.coffee"
+			],
+			[
+				"_setp",
+				"test/_setup.coffee"
+			],
+			[
+				"spechelper",
+				"test/spec_helper.coffee"
+			],
+			[
+				"testsegment",
+				"test/controllers/segment/track.coffee"
+			],
+			[
+				"segment",
+				"app/v1/controllers/segment.coffee"
+			],
+			[
+				"testiden",
+				"test/controllers/campaigns/identify.coffee"
+			],
+			[
+				"modelatt",
+				"app/v1/models/attribute.coffee"
+			],
+			[
+				"person",
+				"app/v1/controllers/person.coffee"
+			],
+			[
+				"modelattribu",
+				"app/v1/models/attribute.coffee"
+			],
+			[
+				"controperson",
+				"app/v1/controllers/person.coffee"
+			],
+			[
+				"spec",
+				"test/spec_helper.coffee"
+			],
+			[
+				"testtrack",
+				"test/controllers/segment/track.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Code/lifecycle/webapp/webapp.sublime-project"
+			],
+			[
+				"web",
+				"~/Dropbox/Code/lifecycle/webapp/webapp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
