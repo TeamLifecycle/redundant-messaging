@@ -1,6 +1,6 @@
 var debug = require('debug')('venn');
 var Email = require("../lib/index")("a db").Email;
-console.log("email", Email)
+debug("email", Email)
 // Email.initialize();
 var data = {
 	key: "abc",
