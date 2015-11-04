@@ -1,6 +1,6 @@
 {
   "name": "redundant-messaging",
-  "version": "0.7.3",
+  "version": "0.8.0",
   "private": true,
   "description": "Messaging Redundancy Package, including Mobile and Web Push Notifications, Email and SMS",
   "main": "lib/index.js",
